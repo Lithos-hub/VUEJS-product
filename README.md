@@ -1,4 +1,4 @@
-# product
+# Ficticial smartphone main page design
 
 ## Project setup
 ```
